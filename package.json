@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caroshalom/Delilah-Resto-Angie/issues"
+    "url": "https://github.com/caroshalom/Deliah-Resto-Angie/issues"
   },
-  "homepage": "https://github.com/caroshalom/Delilah-Resto-Angie#readme",
+  "homepage": "https://github.com/caroshalom/Deliah-Resto-Angie#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
